@@ -1,0 +1,7 @@
+{
+  "name": "aws MedScan - Medical Image Diagnostic System",
+  "description": "An advanced AI-powered platform for analyzing medical images (X-rays, MRI, CT) to provide high-accuracy diagnostic insights and professional medical reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
